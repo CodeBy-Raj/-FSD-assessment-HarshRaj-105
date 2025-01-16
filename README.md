@@ -29,7 +29,7 @@ A simple interactive web application where users can dynamically generate and to
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/CodeBy-Raj/bulb-toggle-app.git
+   git clone https://github.com/CodeBy-Raj/bulb-toggle-app.git](https://github.com/CodeBy-Raj/-FSD-assessment-HarshRaj-105
    ```
 2. Navigate to the project directory:
    ```bash
@@ -37,10 +37,6 @@ A simple interactive web application where users can dynamically generate and to
    ```
 3. Open the `index.html` file in your browser to run the application.
 
-## Project Demo
-
-<img src="https://i.imgur.com/o2y2hTQ.png" alt="Bulb Off" width="50"> Bulb Off  
-<img src="https://i.imgur.com/b9kqOzp.png" alt="Bulb On" width="50"> Bulb On  
 
 ## Future Enhancements
 
